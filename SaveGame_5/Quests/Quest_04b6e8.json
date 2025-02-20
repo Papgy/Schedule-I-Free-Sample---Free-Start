@@ -1,0 +1,76 @@
+{
+    "DataType": "QuestData",
+    "DataVersion": 0,
+    "GameVersion": "0.2.9f4",
+    "GUID": "04b6e82d-fb51-4caa-baf1-4724e16cf155",
+    "State": 2,
+    "IsTracked": false,
+    "Title": "Dodgy Dealing",
+    "Description": "Recruit and manage your first dealer to handle distribution for you.",
+    "Expires": false,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.2.9f4",
+        "ElapsedDays": 0,
+        "Time": 0
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Talk to Uncle Nelson at a payphone",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Unlock Joyce or Peter as a customer",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Talk to Benji Coleman in Motel Room #2",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Recruit Benji Coleman as a dealer",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Provide Benji with at least 10x Weed",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Assign at least 3 customers to Benji",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Wait for Benji to complete a deal",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Collect the cash from Benji",
+            "State": 2
+        }
+    ]
+}

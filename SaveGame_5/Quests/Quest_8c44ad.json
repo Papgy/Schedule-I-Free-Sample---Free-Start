@@ -1,0 +1,125 @@
+{
+    "DataType": "QuestData",
+    "DataVersion": 0,
+    "GameVersion": "0.2.9f4",
+    "GUID": "8c44ad67-83a8-45c5-aeb1-8fed14cf3d71",
+    "State": 2,
+    "IsTracked": true,
+    "Title": "Gearing Up",
+    "Description": "",
+    "Expires": false,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.2.9f4",
+        "ElapsedDays": 0,
+        "Time": 0
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Go to the hardware store",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Buy 1x grow tent",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Buy 1x soil",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Buy 1x watering can",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Head back to the motel room",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Place the grow tent and fill it with soil",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Talk to Uncle Nelson at a payphone",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Order 1x OG Kush Seed from Albert Hoover",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Wait for the dead drop",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Collect the dead drop",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Sow a weed seed",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Water the weed plant",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Harvest the weed plant once fully grown",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Package at least 3x weed",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "List OG Kush for sale in the product manager app",
+            "State": 2
+        }
+    ]
+}

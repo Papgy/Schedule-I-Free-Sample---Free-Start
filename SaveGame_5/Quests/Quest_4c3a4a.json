@@ -1,0 +1,48 @@
+{
+    "DataType": "QuestData",
+    "DataVersion": 0,
+    "GameVersion": "0.2.9f4",
+    "GUID": "4c3a4a78-5697-4b68-a8fd-8bfbe7ee57e0",
+    "State": 2,
+    "IsTracked": false,
+    "Title": "Keeping it Fresh",
+    "Description": "Time to clean some shit up.",
+    "Expires": false,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.2.9f4",
+        "ElapsedDays": 0,
+        "Time": 0
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Place the soil bag and seed vial in the motel room trash can",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Buy a trash bag from the hardware store",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Bag the contents of the trash can",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Dispose of the trash bag",
+            "State": 2
+        }
+    ]
+}

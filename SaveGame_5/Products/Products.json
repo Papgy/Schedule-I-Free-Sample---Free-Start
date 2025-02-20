@@ -1,0 +1,36 @@
+{
+    "DataType": "ProductManagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.2.9f4",
+    "DiscoveredProducts": [
+        "ogkush",
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple"
+    ],
+    "ListedProducts": [],
+    "ActiveMixOperation": {
+        "ProductID": "",
+        "IngredientID": ""
+    },
+    "IsMixComplete": false,
+    "MixRecipes": [],
+    "ProductPrices": [
+        {
+            "String": "ogkush",
+            "Int": 35
+        },
+        {
+            "String": "sourdiesel",
+            "Int": 40
+        },
+        {
+            "String": "greencrack",
+            "Int": 46
+        },
+        {
+            "String": "granddaddypurple",
+            "Int": 46
+        }
+    ]
+}

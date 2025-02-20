@@ -1,0 +1,55 @@
+{
+    "DataType": "QuestData",
+    "DataVersion": 0,
+    "GameVersion": "0.2.9f4",
+    "GUID": "9ada39cf-8ad7-48b7-ad56-b81847650e4d",
+    "State": 2,
+    "IsTracked": false,
+    "Title": "Moving Up",
+    "Description": "You'll need more space if you're looking to get serious. Time to save for and purchase a new property.",
+    "Expires": false,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.2.9f4",
+        "ElapsedDays": 0,
+        "Time": 0
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Save $500 for a new property",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Talk to Mrs. Ming at the Chinese restaurant",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Purchase the room above the Chinese Restaurant",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Move the grow tents and packaging station to the new room",
+            "State": 2
+        },
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Unlock 10 customers (0/10)",
+            "State": 2
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "DataType": "QuestData",
+    "DataVersion": 0,
+    "GameVersion": "0.2.9f4",
+    "GUID": "004e1462-b447-4c46-a8b8-74a4f48ff6a9",
+    "State": 2,
+    "IsTracked": false,
+    "Title": "Money Management",
+    "Description": "Deposit some cash at an ATM.",
+    "Expires": false,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.2.9f4",
+        "ElapsedDays": 0,
+        "Time": 0
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.2.9f4",
+            "Name": "Deposit cash at an ATM",
+            "State": 2
+        }
+    ]
+}

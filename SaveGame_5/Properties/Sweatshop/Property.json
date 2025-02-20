@@ -1,0 +1,14 @@
+{
+    "DataType": "PropertyData",
+    "DataVersion": 0,
+    "GameVersion": "0.2.9f4",
+    "PropertyCode": "sweatshop",
+    "IsOwned": true,
+    "SwitchStates": [
+        false
+    ],
+    "ToggleableStates": [
+        false,
+        false
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "DataType": "TrashContainerData",
+    "DataVersion": 0,
+    "GameVersion": "0.2.9f4",
+    "GUID": "73898818-fc6f-4336-9d29-9d0fd4e8fcec",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.2.9f4\",\n    \"ID\": \"trashcan\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "efc3aaed-d40e-4075-8fc5-79664c851628",
+    "OriginCoordinate": {
+        "x": 9.0,
+        "y": 0.0
+    },
+    "Rotation": -90,
+    "ContentData": {
+        "TrashIDs": [
+            "cuke",
+            "litter1",
+            "usedcigarette",
+            "crushedcuke",
+            "waterbottle"
+        ],
+        "TrashQuantities": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ]
+    }
+}
