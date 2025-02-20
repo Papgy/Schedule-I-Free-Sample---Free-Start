@@ -1,0 +1,23 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.2.9f4",
+    "ConversationIndex": 0,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 2005086036,
+            "Text": "Hello, our mutual friend has asked me to help you acquire some Marijuana seeds.",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1264775572,
+            "Text": "Send me a message if you'd like to order some. Nelson has put in a good word for you, so I'll provide you a tab which you can pay off later.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}
