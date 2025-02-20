@@ -1,0 +1,10 @@
+{
+    "DataType": "BusinessData",
+    "DataVersion": 0,
+    "GameVersion": "0.2.9f4",
+    "PropertyCode": "laundromat",
+    "IsOwned": true,
+    "SwitchStates": [],
+    "ToggleableStates": [],
+    "LaunderingOperations": []
+}
