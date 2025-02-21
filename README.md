@@ -1,5 +1,5 @@
 # Schedule-I-Free-Sample|Free-Start
-### A start with almost everything unlocked so you can test anything that you want:
+## A Start with almost everything unlocked so you can test anything that you want:
 #### Properties:
   1. Sweatshop
   2. Motel Room
@@ -23,5 +23,8 @@
 #### Money:
   1. Cash - 1,000,000,000
   2. Bank - INF
+
+## How to install:
+  1. 
 
 ### Created by Papgy100
