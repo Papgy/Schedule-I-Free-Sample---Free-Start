@@ -24,7 +24,11 @@
   1. Cash - 1,000,000,000
   2. Bank - INF
 
-## How to install:
-  1. 
+## Installation Steps
+
+1. Open **File Explorer**.
+2. Navigate to the following directory: C:\Users\USER\AppData\LocalLow\TVGS\Schedule I Free Sample\Saves
+3. Drag **SaveGame_5** into the **Saves** folder.
+4. You're done! Launch the game and load your save.
 
 ### Created by Papgy100
