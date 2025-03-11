@@ -1,0 +1,14 @@
+{
+    "DataType": "GridItemData",
+    "DataVersion": 0,
+    "GameVersion": "0.2.9f4",
+    "GUID": "ef9e10d1-e10c-491a-a9ef-af58d50cba8f",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.2.9f4\",\n    \"ID\": \"TV\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "890b4b1a-139d-459d-86fe-78bc90f3adc6",
+    "OriginCoordinate": {
+        "x": 0.0,
+        "y": 7.0
+    },
+    "Rotation": 90
+}
