@@ -5,6 +5,7 @@
 #### Properties:
   1. Sweatshop
   2. Motel Room
+  3. Bungalow
 
 #### Businesses:
   1. Car Wash (Outside Demo Boundary)
